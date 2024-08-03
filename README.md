@@ -1,21 +1,10 @@
-# Binc
+# bouncing-blocks
 
-<p align=center>
-  <img src="https://github.com/huggo-42/binc/assets/126027768/fb3405cf-26b5-4904-ae6a-09d7fd637eaf">
-</p>
+Just blocks bouncing in the screen.
 
-Binary clock written in C using raylib and nob build system.
+![image](https://github.com/user-attachments/assets/5c276a1c-9ad6-41bd-ada3-4a393b82c0b3)
 
-> Took nob from https://github.com/tsoding/musializer
-
-## Build from Source
-
-### Linux
-
+### Build and run
 ```console
-$ cc -o nob nob.c # ONLY ONCE!!!
-$ ./nob
-$ ./build/binc
+./nob && ./bouncing-blocks
 ```
-# bouncing-blocks
-# bouncing-blocks
